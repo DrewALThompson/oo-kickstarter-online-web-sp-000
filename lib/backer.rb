@@ -9,6 +9,7 @@ class Backer
   
   def add_backer(name)
     @backer << name
+  end
   
   
 end
